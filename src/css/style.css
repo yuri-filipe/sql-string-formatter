@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    
+}
+ul{
+    list-style-type: none;
+    padding-left:0 ;
+}
+li{
+    padding: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.submit-section-button{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+   
+}
+#button-submmit{
+    max-width: 15vw;
+    width: 15vw;
+    min-width: 6vw;
+}
+#input-text{
+    text-transform: none;
+}
